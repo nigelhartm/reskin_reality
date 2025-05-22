@@ -44,7 +44,7 @@ We’re not quite at that level yet, but I believe it’s already possible to bu
 <br>
 Room mesh: <br>
 <img src="gitimg/room.png" style="width:175px;height:150px;"></a>
-Room mesh with lava texture:<br>
+<br>Room mesh with lava texture:<br>
 <img src="gitimg/room_lava.png" style="width:175px;height:150px;"></a>
 
 ## Key learning points
