@@ -2,7 +2,7 @@
 This prototype uses AI to reskin real environments with custom visuals, transforming walls, furniture, and objects into immersive mixed reality elements. By scanning surfaces and generating textures from text, it blends physical and digital worlds without hiding real items. It showcases how AI and spatial computing can turn any room into a personal fantasy or branded experience—effortlessly and creatively.
 
 ## Trailer
-<a href="https://www.linkedin.com/in/nigelhartman/"><img src="gitimg/preview.png" style="width:200px;height:200px;"></a>
+<a href="https://www.linkedin.com/in/nigelhartman/"><img src="gitimg/preview.png" style="width:300px;height:300px;"></a>
 
 ## Features
 ### Core features
@@ -42,9 +42,9 @@ I got inspired by a video like this one: Apple Vision Pro “reskin reality” d
 
 We’re not quite at that level yet, but I believe it’s already possible to build a simplified version of this concept with the tools we have today. That’s why I want to prototype a real, working version that explores how we can "reskin reality" in a meaningful, interactive way.
 <br>
-Room mesh 
+Room mesh: <br>
 <img src="gitimg/room.png" style="width:175px;height:150px;"></a>
-Room mesh with lava texture
+Room mesh with lava texture:<br>
 <img src="gitimg/room_lava.png" style="width:175px;height:150px;"></a>
 
 ## Key learning points
