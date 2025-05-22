@@ -1,0 +1,2 @@
+C:\Users\nigel\01_Prototype_AI_Texture_Generator\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\CMakeLists.txt
+C:\Users\nigel\01_Prototype_AI_Texture_Generator\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\CMakeLists.txt

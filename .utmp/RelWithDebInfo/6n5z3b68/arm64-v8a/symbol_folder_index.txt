@@ -1,0 +1,1 @@
+C:\Users\nigel\01_Prototype_AI_Texture_Generator\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\cxx\RelWithDebInfo\6n5z3b68\obj\arm64-v8a

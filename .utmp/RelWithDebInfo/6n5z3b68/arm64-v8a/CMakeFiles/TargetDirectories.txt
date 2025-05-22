@@ -1,0 +1,5 @@
+C:/Users/nigel/01_Prototype_AI_Texture_Generator/.utmp/RelWithDebInfo/6n5z3b68/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Users/nigel/01_Prototype_AI_Texture_Generator/.utmp/RelWithDebInfo/6n5z3b68/arm64-v8a/CMakeFiles/rebuild_cache.dir
+C:/Users/nigel/01_Prototype_AI_Texture_Generator/.utmp/RelWithDebInfo/6n5z3b68/arm64-v8a/GameActivity/CMakeFiles/game.dir
+C:/Users/nigel/01_Prototype_AI_Texture_Generator/.utmp/RelWithDebInfo/6n5z3b68/arm64-v8a/GameActivity/CMakeFiles/edit_cache.dir
+C:/Users/nigel/01_Prototype_AI_Texture_Generator/.utmp/RelWithDebInfo/6n5z3b68/arm64-v8a/GameActivity/CMakeFiles/rebuild_cache.dir
